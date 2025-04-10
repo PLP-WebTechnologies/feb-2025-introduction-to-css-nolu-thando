@@ -2,8 +2,18 @@
     background-color: blanchedalmond;
 }
 h1{
+    text-align: center;
+    color: palevioletred;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p{
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: palevioletred;
+}
+img{
+    border-radius: 10px;
+    max-width: 30%;
+    max-height: 30%;
+    float: center;
 }
